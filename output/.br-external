@@ -1,0 +1,1 @@
+BR2_EXTERNAL ?= /home/dgulyasar/git/g-distrodeneme/TK1-Buildroot/br2-external-ftdev
